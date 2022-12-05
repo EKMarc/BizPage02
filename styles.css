@@ -2,8 +2,9 @@ header,
 main,
 footer {
 background-color: rgb(125, 199, 126);
-}
 
+}
+/*this centered the nav bar*/
 .container {
     display: flex;
     justify-content: center;
